@@ -1,0 +1,2 @@
+NAME='yuyang'
+AAA=True
